@@ -6,7 +6,7 @@ This was my hobby project done from Microsoft XNA Framework and Visual Studio. C
 
 ## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)]
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Download and Installation
 
